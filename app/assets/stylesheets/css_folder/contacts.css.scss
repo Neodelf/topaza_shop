@@ -6,7 +6,12 @@
 .contacts-left{
   width: 50%;
   float: left;
-  h1 {}
+  h1 {
+    color:  #13131c;
+    font-size: 35px;
+    line-height: 40px;
+    font-family: 'baufra';
+  }
   .contacts-left-item_title{
     font-size: 15px;
     font-family: 'Open Sans';
